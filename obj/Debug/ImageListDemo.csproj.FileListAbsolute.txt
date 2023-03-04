@@ -1,0 +1,11 @@
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\bin\Debug\ImageListDemo.exe.config
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\bin\Debug\ImageListDemo.exe
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\bin\Debug\ImageListDemo.pdb
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\obj\Debug\ImageListDemo.csproj.AssemblyReference.cache
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\obj\Debug\ImageListDemo.csproj.SuggestedBindingRedirects.cache
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\obj\Debug\ImageListDemo.Form1.resources
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\obj\Debug\ImageListDemo.Properties.Resources.resources
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\obj\Debug\ImageListDemo.csproj.GenerateResource.cache
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\obj\Debug\ImageListDemo.csproj.CoreCompileInputs.cache
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\obj\Debug\ImageListDemo.exe
+D:\PSU\240-122\techintalk\WindowForms\ImageList\ImageListDemo\obj\Debug\ImageListDemo.pdb
